@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="tax" transform="translate(-5104 -3847)">
+    <g id="Group_2139" data-name="Group 2139" transform="translate(5104 3847)">
+      <g id="Ellipse_88" data-name="Ellipse 88" fill="none" stroke="#0d1b3a" stroke-width="12">
+        <circle cx="256" cy="256" r="256" stroke="none"/>
+        <circle cx="256" cy="256" r="250" fill="none"/>
+      </g>
+    </g>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M20832,9273h-224V9033h137.266l86.73,86.73V9273h0v0Z" transform="translate(-15360 -5049.997)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path id="Path_62368" data-name="Path 62368" d="M-15330.008-4989.11h156.45" transform="translate(20612.006 9097.113)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="10"/>
+    <path id="Path_62368-2" data-name="Path 62368" d="M-15330.008-4989.11h156.45" transform="translate(20612.006 9133.113)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="10"/>
+    <path id="Path_62368-3" data-name="Path 62368" d="M-15330.008-4989.11h156.45" transform="translate(20612.006 9169.113)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-width="10"/>
+    <path id="Path_62369" data-name="Path 62369" d="M-15130.837-4937.1l-88.319-88.319v88.319Z" transform="translate(20602.998 9009.003)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="ic_img_title_sensor" transform="translate(-6802 -7008)">
+    <g id="Ellipse_425" data-name="Ellipse 425" transform="translate(6802 7008)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
+      <circle cx="256" cy="256" r="256" stroke="none"/>
+      <circle cx="256" cy="256" r="250" fill="none"/>
+    </g>
+    <g id="Group_33054" data-name="Group 33054" transform="translate(-13 -32.282)">
+      <g id="Group_31452" data-name="Group 31452" transform="translate(1138.109 1222.881)">
+        <path id="Path_41" data-name="Path 41" d="M207.138,298.445H135.874L95.774,156.71a15.895,15.895,0,0,0-30.589,8.655l43.374,153.3a15.893,15.893,0,0,0,15.294,11.567h83.284a15.894,15.894,0,0,0,0-31.789Z" transform="translate(5713.309 5849.383)" fill="none" stroke="#011131" stroke-width="10"/>
+        <path id="Path_42" data-name="Path 42" d="M249.442,263.233A19.1,19.1,0,0,0,231.9,251.705h-.04l-27.84.059-5.349-20.219,12.84,9.687a15.887,15.887,0,0,0,9.571,3.206h.161l21.808-.219a15.894,15.894,0,1,0-.319-31.787l-16.4.165-47.61-35.914A29.539,29.539,0,0,0,130.982,206.7l16.263,61.462a29.554,29.554,0,0,0,28.54,21.992c.833,0,1.671-.049,2.512-.121l41.063-.086,28.319,65.544a19.1,19.1,0,1,0,35.075-15.155Z" transform="translate(5724.67 5843.267)" fill="none" stroke="#011131" stroke-width="10"/>
+        <path id="Path_43" data-name="Path 43" d="M135.858,157.577a32.819,32.819,0,1,0-32.837-32.814A32.818,32.818,0,0,0,135.858,157.577Z" transform="translate(5723.696 5844.462)" fill="none" stroke="#011131" stroke-width="10"/>
+      </g>
+      <g id="Group_33053" data-name="Group 33053">
+        <path id="Path_138110" data-name="Path 138110" d="M-13481.455-1778.949l52.824-54.149" transform="translate(20620.775 9056.451)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="12"/>
+        <path id="Path_138111" data-name="Path 138111" d="M-13420.911-1760.218l-60.546-72.88" transform="translate(20647.6 9084.451)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="12"/>
+      </g>
+    </g>
+  </g>
+</svg>

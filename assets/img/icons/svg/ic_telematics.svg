@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="373.334" height="512" viewBox="0 0 373.334 512">
+  <g id="ic_telematics" transform="translate(22596 7012)">
+    <g id="Path_59304" data-name="Path 59304" transform="translate(-22596 -7012)" fill="none">
+      <path d="M186.667,0C289.76,0,373.333,83.574,373.333,186.667S186.667,512,186.667,512,0,289.76,0,186.667,83.574,0,186.667,0Z" stroke="none"/>
+      <path d="M 186.6666564941406 16 C 92.56072998046875 16 16 92.56076049804688 16 186.6666564941406 C 16 260.6367797851563 129.6060333251953 416.3106689453125 186.6680603027344 486.8291320800781 C 243.7298431396484 416.3261413574219 357.3333129882813 260.6773071289063 357.3333129882813 186.6666564941406 C 357.3333129882813 92.56076049804688 280.7725830078125 16 186.6666564941406 16 M 186.6666564941406 0 C 289.7598266601563 0 373.3333129882813 83.573486328125 373.3333129882813 186.6666564941406 C 373.3333129882813 289.7598266601563 186.6666564941406 512 186.6666564941406 512 C 186.6666564941406 512 0 289.7598266601563 0 186.6666564941406 C 0 83.573486328125 83.573486328125 0 186.6666564941406 0 Z" stroke="none" fill="#0d1b3a"/>
+    </g>
+    <g id="Ellipse_403" data-name="Ellipse 403" transform="translate(-22513.939 -6937.931)" fill="none" stroke="#0d1b3a" stroke-width="16">
+      <ellipse cx="104.61" cy="100.062" rx="104.61" ry="100.062" stroke="none"/>
+      <ellipse cx="104.61" cy="100.062" rx="96.61" ry="92.062" fill="none"/>
+    </g>
+    <path id="Path_59305" data-name="Path 59305" d="M-15231.859-8322.5h-77.687" transform="translate(-7046.941 1486.497)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="16"/>
+    <path id="Path_59307" data-name="Path 59307" d="M77.676,0H0" transform="translate(-22408.336 -6784.167) rotate(90)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="16"/>
+    <path id="Path_59306" data-name="Path 59306" d="M-15231.859-8322.5h-77.687" transform="translate(-7228.268 1486.497)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="16"/>
+    <path id="Path_59308" data-name="Path 59308" d="M77.676,0H0" transform="translate(-22408.336 -6965.5) rotate(90)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-width="16"/>
+  </g>
+</svg>

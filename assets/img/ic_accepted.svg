@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <g id="ic_accepted" transform="translate(-339 -2137)">
+    <g id="Path_97948" data-name="Path 97948" transform="translate(339 2137)" fill="none">
+      <path d="M125,0A125,125,0,1,1,0,125,125,125,0,0,1,125,0Z" stroke="none"/>
+      <path d="M 125 6 C 59.38319396972656 6 6 59.38319396972656 6 125 C 6 190.6168060302734 59.38319396972656 244 125 244 C 190.6168060302734 244 244 190.6168060302734 244 125 C 244 59.38319396972656 190.6168060302734 6 125 6 M 125 0 C 194.0355834960938 0 250 55.96441650390625 250 125 C 250 194.0355834960938 194.0355834960938 250 125 250 C 55.96441650390625 250 0 194.0355834960938 0 125 C 0 55.96441650390625 55.96441650390625 0 125 0 Z" stroke="none" fill="#0d1b3a"/>
+    </g>
+    <g id="Group_21396" data-name="Group 21396" transform="translate(-9.828 -8.233)">
+      <path id="Path_97951" data-name="Path 97951" d="M-3294.109-6230.362l45.765,47.882,67.51-67.51" transform="translate(3695 8507.369)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_97952" data-name="Path 97952" d="M-3194.514-6249.617l23.671-23.671" transform="translate(3716.984 8498)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

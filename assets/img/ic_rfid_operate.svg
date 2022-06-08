@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="ic_rfid_operate" transform="translate(-3199 -8345)">
+    <g id="Rectangle_854" data-name="Rectangle 854" transform="translate(3199 8345)" fill="none" stroke="#0d1b3a" stroke-width="12">
+      <rect width="512" height="512" rx="256" stroke="none"/>
+      <rect x="6" y="6" width="500" height="500" rx="250" fill="none"/>
+    </g>
+    <g id="Group_31122" data-name="Group 31122" transform="translate(-1056.758 -123.067)">
+      <path id="Path_132547" data-name="Path 132547" d="M-16439.2-394.45l55.337,50.37,92.253-111.212" transform="translate(20875.701 9122.791)" fill="none" stroke="#ec691f" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <g id="Group_31120" data-name="Group 31120" transform="translate(422 36)">
+        <path id="Path_132549" data-name="Path 132549" d="M0,34.718,34.717,0l34.72,34.718" transform="matrix(-0.469, -0.883, 0.883, -0.469, 4020.355, 8609.676)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <path id="Path_132550" data-name="Path 132550" d="M-16382.375-288.872s46.8-97.4-41.234-166.732-169.439-.489-169.439-.489" transform="translate(20597 9034)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+      <g id="Group_31121" data-name="Group 31121" transform="translate(4373.758 8667.067)">
+        <path id="Path_132549-2" data-name="Path 132549" d="M0,34.718,34.717,0l34.72,34.718" transform="matrix(0.469, 0.883, -0.883, 0.469, 206.696, 135.452)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+        <path id="Path_132550-2" data-name="Path 132550" d="M-16580.617-486.548s-46.795,97.4,41.234,166.732,169.438.489,169.438.489" transform="translate(16593.043 486.548)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      </g>
+    </g>
+  </g>
+</svg>

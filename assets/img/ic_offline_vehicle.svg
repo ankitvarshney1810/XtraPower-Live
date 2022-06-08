@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g id="ic_offline_vehicle" transform="translate(-10198 -3484)">
+    <g id="Ellipse_982" data-name="Ellipse 982" transform="translate(10198 3484)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
+      <circle cx="256" cy="256" r="256" stroke="none"/>
+      <circle cx="256" cy="256" r="250" fill="none"/>
+    </g>
+    <g id="Group_77" data-name="Group 77" transform="translate(10525.206 3633.476)">
+      <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="39.297" cy="39.296" rx="39.297" ry="39.296" transform="translate(5.78 5.782)" fill="none"/>
+      <path id="Path_103" data-name="Path 103" d="M56.131,148.388A40.614,40.614,0,1,0,96.744,189,40.66,40.66,0,0,0,56.131,148.388Zm0,78.593A37.98,37.98,0,1,1,94.111,189,38.023,38.023,0,0,1,56.131,226.981Z" transform="translate(-11.032 -143.901)" fill="#011131"/>
+      <path id="Path_104" data-name="Path 104" d="M65.757,192.512l12.327-12.327A4.8,4.8,0,1,0,71.3,173.4L58.969,185.724,46.642,173.4a4.8,4.8,0,0,0-6.788,6.788l12.327,12.327L39.854,204.838a4.8,4.8,0,1,0,6.787,6.788L58.969,199.3,71.3,211.627a4.8,4.8,0,0,0,6.787-6.788Z" transform="translate(-13.834 -146.784)" fill="#011131"/>
+    </g>
+    <g id="Group_31454" data-name="Group 31454" transform="translate(10245.694 3680.322)">
+      <g id="Group_57" data-name="Group 57" transform="translate(0 0.948)">
+        <path id="Path_9" data-name="Path 9" d="M7.444,0H189.7a4.579,4.579,0,0,1,4.614,4.544s8.15,19.471,8.15,39.919-8.15,41.872-8.15,41.872a4.579,4.579,0,0,1-4.614,4.544H7.444A4.579,4.579,0,0,1,2.83,86.335S-2.139,64.91-2.139,44.463A183.642,183.642,0,0,1,2.83,4.544,4.579,4.579,0,0,1,7.444,0Z" transform="translate(2.139 0)" fill="none" stroke="#011131" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        <path id="Path_11" data-name="Path 11" d="M6.308,0H168.88c1.078,6.318.948,10.338,0,18.041H6.308c-2.273,0-4.116-.4-4.116-.9,0,0-4.265-4-4.265-8.058S2.193.9,2.193.9C2.193.4,4.035,0,6.308,0Z" transform="translate(29.5 36.419)" fill="none" stroke="#ea5c10" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+      <g id="Group_58" data-name="Group 58" transform="translate(23.492 0)">
+        <path id="Subtraction_1" data-name="Subtraction 1" d="M22.334,115h0L0,115,2.875,0H52.229l28.22,44.688L115,61.864V115l-19.457,0a38.829,38.829,0,0,0-73.208,0Z" transform="translate(185.813 -0.322)" fill="#fff" stroke="#011131" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        <path id="Subtraction_2" data-name="Subtraction 2" d="M168,12H86.084A40.978,40.978,0,0,0,79.7,0H168V12ZM13.577,12H0V0H19.963a40.978,40.978,0,0,0-6.386,12Z" transform="translate(-0.187 103.678)" fill="#fff" stroke="#011131" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        <path id="Path_34" data-name="Path 34" d="M29.643,0C46.014,0,59.285,14.031,59.285,31.34S46.014,62.68,29.643,62.68,0,48.648,0,31.34,13.271,0,29.643,0Z" transform="translate(28.047 89.636) rotate(17)" fill="none" stroke="#011131" stroke-linecap="round" stroke-width="8"/>
+        <path id="Path_35" data-name="Path 35" d="M29.643,0C46.014,0,59.285,14.031,59.285,31.34S46.014,62.68,29.643,62.68,0,48.648,0,31.34,13.271,0,29.643,0Z" transform="translate(225.665 89.636) rotate(17)" fill="none" stroke="#011131" stroke-linecap="round" stroke-width="8"/>
+        <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="15.527" cy="16.939" rx="15.527" ry="16.939" transform="translate(37.419 107.262) rotate(17)" fill="#fff" stroke="#011131" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="15.527" cy="16.939" rx="15.527" ry="16.939" transform="translate(235.037 107.262) rotate(17)" fill="#fff" stroke="#011131" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+        <path id="Path_12" data-name="Path 12" d="M1638.823,1360.094l.253,38.161h55.23l-23.866-38.161Z" transform="translate(-1441.289 -1350.411)" fill="none" stroke="#011131" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      </g>
+    </g>
+  </g>
+</svg>

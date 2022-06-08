@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <g id="ic_reimursment" transform="translate(-1128 -1240)">
+    <g id="Ellipse_875" data-name="Ellipse 875" transform="translate(1128 1240)" fill="none" stroke="#0d1b3a" stroke-width="6">
+      <circle cx="125" cy="125" r="125" stroke="none"/>
+      <circle cx="125" cy="125" r="122" fill="none"/>
+    </g>
+    <g id="Group_21265" data-name="Group 21265" transform="translate(0.785 0.255)">
+      <path id="Path_96816" data-name="Path 96816" d="M66.4-15.032,59.686-5.1H45.725a21.934,21.934,0,0,1,3.557,5.5A26.592,26.592,0,0,1,51.3,7.521H66.4l-6.712,9.934H51.3a26.49,26.49,0,0,1-3.188,9.028A24.079,24.079,0,0,1,41.832,33.6,29.588,29.588,0,0,1,32.6,38.263a39.856,39.856,0,0,1-11.981,1.678l40.81,43.428H43.577L4.176,41.015V31.081h9.867a39.914,39.914,0,0,0,8.592-.873,25.3,25.3,0,0,0,7.048-2.618,17.842,17.842,0,0,0,5.135-4.262,14.55,14.55,0,0,0,2.853-5.873H.82L7.533,7.521H37.6a15.682,15.682,0,0,0-6.612-9.2Q25.924-5.1,17.2-5.1H.82l6.712-9.934Z" transform="translate(1219.574 1330.616)" fill="none" stroke="#0d1b3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <g id="Group_21263" data-name="Group 21263" transform="translate(1133.214 1376.36) rotate(-60)">
+        <path id="Path_96803" data-name="Path 96803" d="M0,0,18.448,18.447,36.9,0" transform="translate(51.545 36.895) rotate(-90)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_96805" data-name="Path 96805" d="M-4085.641-7622.1a64.956,64.956,0,0,0-39.586,5.955c-20.376,10.214-30.406,29.129-30.406,29.129" transform="translate(4155.633 7640.544)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+      <g id="Group_21264" data-name="Group 21264" transform="translate(1290.607 1387.219) rotate(-60)">
+        <path id="Path_96803-2" data-name="Path 96803" d="M0,0,18.448,18.448,36.9,0" transform="translate(18.448 16.636) rotate(90)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <path id="Path_96805-2" data-name="Path 96805" d="M-4155.634-7587.894a64.954,64.954,0,0,0,39.587-5.956c20.376-10.213,30.406-29.129,30.406-29.129" transform="translate(4155.634 7622.979)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>

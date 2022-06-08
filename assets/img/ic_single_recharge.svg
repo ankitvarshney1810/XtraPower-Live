@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <g id="ic_single_recharge" transform="translate(-48 -1240)">
+    <g id="Ellipse_817" data-name="Ellipse 817" transform="translate(48 1240)" fill="none" stroke="#0d1b3a" stroke-width="6">
+      <circle cx="125" cy="125" r="125" stroke="none"/>
+      <circle cx="125" cy="125" r="122" fill="none"/>
+    </g>
+    <path id="Path_96756" data-name="Path 96756" d="M20604.809,9122.525a15.824,15.824,0,0,1-15.809-15.809v-56.906a15.826,15.826,0,0,1,15.809-15.812h94.852a15.831,15.831,0,0,1,15.809,15.813v56.906a15.829,15.829,0,0,1-15.809,15.809Zm-9.488-72.715v56.906a9.5,9.5,0,0,0,9.488,9.488h94.852a9.5,9.5,0,0,0,9.484-9.488v-56.906a9.5,9.5,0,0,0-9.484-9.486h-94.852A9.5,9.5,0,0,0,20595.32,9049.811Zm15.813,53.746a3.162,3.162,0,1,1,0-6.324h82.207a3.162,3.162,0,0,1,0,6.324Zm6.32-18.971a9.5,9.5,0,0,1-9.488-9.484v-12.646a9.5,9.5,0,0,1,9.488-9.484h12.648a9.5,9.5,0,0,1,9.484,9.484V9075.1a9.5,9.5,0,0,1-9.484,9.484Zm-3.16-22.131V9075.1a3.168,3.168,0,0,0,3.16,3.162h12.648a3.162,3.162,0,0,0,3.156-3.162v-12.646a3.167,3.167,0,0,0-3.156-3.164h-12.648A3.173,3.173,0,0,0,20614.293,9062.455Z" transform="translate(-20477.766 -7712.945)" fill="#0d1b3a"/>
+    <g id="Group_21254" data-name="Group 21254" transform="translate(102.946 1267.231)">
+      <path id="Path_96803" data-name="Path 96803" d="M0,0,18.448,18.447,36.9,0" transform="translate(51.545 36.895) rotate(-90)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_96805" data-name="Path 96805" d="M-4085.641-7622.1a64.956,64.956,0,0,0-39.586,5.955c-20.376,10.214-30.406,29.129-30.406,29.129" transform="translate(4155.633 7640.544)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <g id="Group_21255" data-name="Group 21255" transform="translate(172.239 1408.966)">
+      <path id="Path_96803-2" data-name="Path 96803" d="M0,0,18.448,18.448,36.9,0" transform="translate(18.448 16.636) rotate(90)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="Path_96805-2" data-name="Path 96805" d="M-4155.634-7587.894a64.954,64.954,0,0,0,39.587-5.956c20.376-10.213,30.406-29.129,30.406-29.129" transform="translate(4155.634 7622.979)" fill="none" stroke="#e36410" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
